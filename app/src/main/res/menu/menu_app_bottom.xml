@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/exampleLinearLayoutFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/Home_title"/>
+
+    <item
+        android:id="@+id/commentFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_comment_24"
+        android:title="@string/comments"/>
+
+
+</menu>
